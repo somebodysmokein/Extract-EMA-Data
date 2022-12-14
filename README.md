@@ -12,5 +12,6 @@ python and pip should be installed
 pip install -r requirements.txt
 ```
 - Run the below command with Symbol & Date for which the results are required
-```py main.py SBIN 2022-12-14
+```
+py main.py SBIN 2022-12-14
 ```
