@@ -1,4 +1,4 @@
-# python-selenium-browserstack
+# Extract EMA data
 
 ## Prerequisite
 ```
